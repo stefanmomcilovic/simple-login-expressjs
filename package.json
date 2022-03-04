@@ -16,5 +16,23 @@
     "sequelize": "^6.17.0",
     "validator": "^13.7.0",
     "xss-clean": "^0.1.1"
-  }
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "simpleloginexpressjs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanmomcilovic/simple-login-expressjs.git"
+  },
+  "author": "Stefan Momcilovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanmomcilovic/simple-login-expressjs/issues"
+  },
+  "homepage": "https://github.com/stefanmomcilovic/simple-login-expressjs#readme",
+  "description": ""
 }
